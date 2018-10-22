@@ -1,4 +1,4 @@
-2018/10/22 23:04:56 testing concurrent-map
+```2018/10/22 23:04:56 testing concurrent-map
 2018/10/22 23:04:56 test compleat. duration:272.295092ms; len:100000
 2018/10/22 23:04:56 testing sync-map
 2018/10/22 23:04:57 test compleat. duration:813.720407ms; len:100000
@@ -27,4 +27,4 @@
 2018/10/22 23:05:02 testing sync-map
 2018/10/22 23:05:03 test compleat. duration:827.611213ms; len:100000
 2018/10/22 23:05:03 testing map with rwmutex
-2018/10/22 23:05:03 test compleat. duration:414.048996ms; len:100000
+2018/10/22 23:05:03 test compleat. duration:414.048996ms; len:100000```
